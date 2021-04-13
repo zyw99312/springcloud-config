@@ -1,2 +1,2 @@
-hello:
-  world: master branch, springcloud-config/config-test.yml vwesion=1.0.0
+config:
+  info: master branch, springcloud-config/config-test.yml vwesion=1.0.0
